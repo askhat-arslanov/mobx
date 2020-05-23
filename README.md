@@ -1,1 +1,1 @@
-# Playing around Mobx and React
+# Playing around with Mobx and React
